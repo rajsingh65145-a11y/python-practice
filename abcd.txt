@@ -1,3 +1,8 @@
 gjbkgbabg
+<<<<<<< HEAD
 mai accha 
 jai bhim
+=======
+mai accha hu
+raj ki jai ho
+>>>>>>> feature/navbar
