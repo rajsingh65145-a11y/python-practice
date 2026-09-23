@@ -12,7 +12,7 @@ conn.execute("create table tblemp11(eno int primary key,ename text,gender text,j
 print("table successfully created")
 
 
-# step 3: insert multiple records   
+# step 3: insert multiple records      
 
 conn.execute("insert into tblemp11 values(1,'rohit','M','2001-12-21',24000)")
 conn.execute("insert into tblemp11 values(2,'karan','M','2007-9-11',50000)")
