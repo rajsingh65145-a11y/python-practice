@@ -10,7 +10,7 @@ print("database successfully conected")
 
 conn.execute("create table tblemp11(eno int primary key,ename text,gender text,jdate text,salary integer)")
 print("table successfully created")
-    
+        
 
 # step 3: insert multiple records      
 
