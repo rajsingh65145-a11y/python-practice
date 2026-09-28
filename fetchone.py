@@ -3,7 +3,7 @@ import sqlite3
 # step 1: creating new database
      
 conn=sqlite3.connect('emp.db')
-   
+       
 print("database successfully conected")
 
 # step 2: creating table
