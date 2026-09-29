@@ -22,7 +22,7 @@ conn.commit()
 print("record successfully inserted")
 
 
-#step 4: fetchone() is used
+#step 4: fetchone() is used 
 
 a=conn.execute("select * from tblemp11")
 b=a.fetchone()
