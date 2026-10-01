@@ -21,7 +21,7 @@ conn.execute("insert into tblemp11 values(4,'laksh','M','2008-8-2',70000)")
 conn.commit()
 print("record successfully inserted")
 
-
+  
 #step 4: fetchone() is used    
 
 a=conn.execute("select * from tblemp11")
