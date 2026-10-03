@@ -24,7 +24,7 @@ print("record successfully inserted")
   
 #step 4: fetchone() is used    
 
-a=conn.execute("select * from tblemp11")   
+a=conn.execute("select * from tblemp11")      
 b=a.fetchone()
 print(b)
 
