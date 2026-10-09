@@ -1,0 +1,7 @@
+DoctorID,DoctorName,Specialization,Patients,Fees
+1,Dr. Mehta,Cardiology,30,800.0
+2,Dr. Shah,Neurology,20,1000.0
+3,Dr. Patel,Cardiology,25,900.0
+4,Dr. Joshi,Orthopedic,18,700.0
+5,Dr. Desai,Dermatology,40,500.0
+6,Dr. Trivedi,ENT,22,600.0

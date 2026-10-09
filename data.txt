@@ -1,0 +1,3 @@
+Hello, ye pehli line hai
+Python bahut easy hai
+File handling mazedaar hai
