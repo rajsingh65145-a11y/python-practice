@@ -1,0 +1,11 @@
+BookID,Title,Author,Subject,Price
+1,Learning Python,Mark Lutz,Python,750.0
+2,Python Crash Course,Eric Matthes,Python,500.0
+3,Python Basics,Ravi Kumar,Python,300.0
+4,Let Us C,Yashavant Kanetkar,C,400.0
+5,Java Complete,Herbert Schildt,Java,650.0
+6,DBMS Concepts,Korth,Database,550.0
+7,Automate Boring Stuff,Al Sweigart,Python,450.0
+8,HTML and CSS,Jon Duckett,Web,350.0
+9,Python for Beginners,Amit Shah,Python,250.0
+10,Data Structures,Seymour Lipschutz,DS,380.0
