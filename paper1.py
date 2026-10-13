@@ -35,4 +35,4 @@ def getdata(min,max):
 lo=int(input("enter min marks:"))
 hi=int(input("enter max marks:"))
 getdata(lo,hi)
-conn.close()
+conn.close()     
